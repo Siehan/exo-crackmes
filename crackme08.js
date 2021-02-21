@@ -1,5 +1,5 @@
 // Vous devez assigner la bonne string à la variable password ci-dessous
-// Et obtenir le message 'OK' en éxecutant le programme
+// Et obtenir le message 'GOOD' en éxecutant le programme
 
 /* Any letter of the alphabet works as long as there is only one, joint to the number 42.
 By default I writenthe B because in the Caesar code, the hexadécimal number 42 is B in character ASCII */
